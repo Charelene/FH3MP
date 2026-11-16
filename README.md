@@ -2,7 +2,7 @@
 
 > **Early work in progress.** Expect crashes, desyncs and missing pieces.
 
-Forza Horizon 3's online services were switched off. FH3MP brings them back for the Xbox One build of the game running on a PC through
+Forza Horizon 3's online services barely work anymore. FH3MP brings them back for the Xbox One build of the game running on a PC through
 [Azimuth](https://almost-there-games.itch.io/azimuth), with a replacement server run by the FH3MP team. No Microsoft or Xbox Live service
 is contacted.
 
